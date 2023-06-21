@@ -509,3 +509,7 @@ footer h2 {
 .carousel-next {
   right: 10px;
 }
+.carousel-item img {
+  width: 1400px;
+  height: 900px;
+}
